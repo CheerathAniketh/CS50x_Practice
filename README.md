@@ -14,8 +14,3 @@ It includes solutions for **CS50x Week 1 and Week 2** (and will be updated with 
 This repo is for **practice and learning purposes**. All code is written in C and compiled using CS50 IDE.  
 Binaries and compiled files are **not included**, only source `.c` files.
 
-## Usage
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/CheerathAniketh/CS50_Practice.git
